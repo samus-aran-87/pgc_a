@@ -1,0 +1,1 @@
+# ex1class Point:    """Класс для представления"""    x = 1    y = 1# pt=Point()# Point.x = 100# print(pt.x, pt.y)# print(id(pt), id(Point), sep="\n")# pt.x = 200# pt.y = 1# print(pt.x, Point.x)# print(getattr(pt, 'x'))# print(hasattr(pt, 'x'))# print(setattr(pt, 'z', 10))# delattr(pt, 'z')# print(isinstance(pt, Point))
